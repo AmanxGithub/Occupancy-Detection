@@ -1,0 +1,6 @@
+data/suparn.jpg: Predicted in 27.792761 seconds.
+person: 99%
+person: 97%
+person: 83%
+person: 79%
+person: 53%

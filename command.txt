@@ -1,0 +1,8 @@
+./darknet detect cfg/yolov3.cfg yolov3.weights data/classroom.jpg
+
+
+watch -n 5 ./my_script.sh
+
+
+./my_script_com.sh
+
